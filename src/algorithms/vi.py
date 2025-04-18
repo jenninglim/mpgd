@@ -71,7 +71,7 @@ class VI(Algorithm):
              batch_idx):
         """
         Joint gradient updates of the ELBO
-        See Eq 7. https://arxiv.org/pdf/1312.6114.pdf
+        See Eq 2. https://arxiv.org/pdf/1312.6114.pdf
         """
         # Samples from the posterior
         loss, nll = self._loss(batch, batch_idx, return_nll=True)
