@@ -1,8 +1,8 @@
-# MPD Anonymized Code
+# Momentum Particle Maximum Likelihood
 
-Reproducing results.
+Code used in [MPD Paper](https://arxiv.org/abs/2312.07335).
 
-Activate environment with:
+Activate the environment with:
 
 ```
 pipenv sync
