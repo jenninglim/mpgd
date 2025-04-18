@@ -1,0 +1,1 @@
+from src.algorithms import ALGORITHMS
